@@ -5,7 +5,6 @@ import java.util.HashMap;
 
 public class TwoSum {
     public int[] myAnswer(int[] nums, int target) {
-        int[] result = new int[2];
         HashMap<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
         for (int index = 0; index < nums.length; index++) {
             hashMap.put(nums[index], index);
@@ -14,13 +13,11 @@ public class TwoSum {
             if (hashMap.containsKey(target - nums[index])) {
                 int getValue = hashMap.get(target - nums[index]);
                 if (getValue != index) {
-                    result[0] = index;
-                    result[1] = getValue;
-                    break;
+                    return new int[]{index, getValue};
                 }
             }
         }
-        return  result;
+        return null;
     }
 
     public int[] bestAnswer(int[] nums, int target) {
