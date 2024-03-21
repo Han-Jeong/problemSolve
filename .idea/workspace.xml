@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8edc08b-4854-4353-9183-db8c80ff1ea8" name="Changes" comment="" />
+    <list default="true" id="c8edc08b-4854-4353-9183-db8c80ff1ea8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/march/fourteenth/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/march/fourteenth/problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +70,8 @@
       <workItem from="1709617066810" duration="8460000" />
       <workItem from="1709723704493" duration="3689000" />
       <workItem from="1709732925284" duration="4458000" />
+      <workItem from="1709884709373" duration="11352000" />
+      <workItem from="1710421053740" duration="3141000" />
     </task>
     <servers />
   </component>
