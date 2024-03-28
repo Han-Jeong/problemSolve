@@ -1,0 +1,13 @@
+
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(åìôšşÿÿÿÿJ$cee89e22-d160-4908-846f-02e767434d91
+b
+java:S1168"&Return an empty array instead of null.(¥¹ïJ$049283ef-432e-4b21-9b31-673b480be84a
+q
+java:S1854"5Remove this useless assignment to local variable "a".(¶¬®‘J$97928453-2d2b-4354-becf-c23eed1cbae3
+f
+java:S1197"*Move the array designators [] to the type.(¶¬®‘J$0a43a489-5657-481b-9a72-8334003cec06
+b
+java:S1481"&Remove this unused "a" local variable.(¶¬®‘J$961f8742-4e79-4ad6-a070-b08d7b8a6aee
+b
+java:S1168""&Return an empty array instead of null.(¥¹ïJ$04b5d478-8647-488b-b665-b1f845032d00
