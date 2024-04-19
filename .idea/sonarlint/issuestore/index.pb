@@ -24,3 +24,9 @@ b
 2src/march/twentyeighth/MaximumProductSubArray.java,9/4/9460f95008a9e752555abafb8bf595aa84611ee2
 Q
 !src/march/twentyeighth/problem.md,1/5/1510abea2b98a8dfd27351adc220cd044fc0073e
+Q
+!src/april/week3/twoSum/problem.md,5/0/507ec3fe2c0297c804e9588e2c37f30df8bc09d5
+Y
+)src/april/week3/climbingStairs/problem.md,e/0/e08c80e15cf6933f22c66777c7b9a6ee6cc4fe0f
+d
+4src/april/week3/bestTimeToBuyAndSellStock/problem.md,c/c/cc92239da2b6b1d6d0d293f209737a70f25b94ef
