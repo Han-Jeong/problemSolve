@@ -9,7 +9,7 @@ public class Main {
 //        twoSum();
 //        bestTimeToBuyAndSellStock();
 //        containsDuplicate();
-        ClimbingStairs.climbStairs(44);
+        ClimbingStairs.differentAnswer(44);
     }
 
     private static void twoSum() {

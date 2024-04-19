@@ -32,4 +32,16 @@ public class ClimbingStairs {
         return product;
     }
 
+    public static int differentAnswer(int n) {
+        int sum = 1;
+        int save = 1;
+        if (n >= 2) {
+            for (int i = 2; i <= n; i++) {
+                sum += save;
+                save = sum - save;
+            }
+        }
+        return sum;
+    }
+
 }
