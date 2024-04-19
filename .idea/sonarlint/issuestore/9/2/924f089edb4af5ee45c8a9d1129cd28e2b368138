@@ -1,0 +1,13 @@
+
+]
+java:S1220""Move this file to a named package.8Ôâ÷¨ï1J$eae9c1f2-0e6c-4fed-ba44-9d3ab36d0e67
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(ÇÐÍ®ýÿÿÿÿ8Ûâ÷¨ï1J$68074401-d1b5-458b-a65f-0bbb024cd18b
+r	java:S106"+Replace this use of System.out by a logger.(£žÑŠÿÿÿÿÿ8Ýâ÷¨ï1J$83d01e1d-d8c3-4984-8dc2-f99b22d8d8ff
+r	java:S106"+Replace this use of System.out by a logger.(Ž¥ôŸþÿÿÿÿ8Þâ÷¨ï1J$5a4bd50f-23e7-4b72-b9ee-8bc946a03492
+r	java:S106"+Replace this use of System.out by a logger.(…òŽ•ùÿÿÿÿ8àâ÷¨ï1J$9b0f7cb5-5c83-4767-a32c-a41d53972db1
+s
+java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ýÿÿÿÿ8ââ÷¨ï1J$cba422df-fce5-46e2-a459-1fa0726bf5a7
+
+java:S1144">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8ãâ÷¨ï1J$3becead3-7974-437d-a2cf-d085eac2354c
+~
+java:S1144"6Remove this unused private "containsDuplicate" method.(ïŽô¼ùÿÿÿÿ8äâ÷¨ï1J$c4d7e49a-ab41-4af9-b38a-668370a82276

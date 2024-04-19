@@ -1,3 +1,4 @@
+import april.week3.climbingStairs.ClimbingStairs;
 import march.fifth.TwoSum;
 import march.seventh.ContainsDuplicate;
 import march.sixth.BestTimeToBuyAndSellStock;
@@ -7,7 +8,8 @@ public class Main {
 
 //        twoSum();
 //        bestTimeToBuyAndSellStock();
-        containsDuplicate();
+//        containsDuplicate();
+        ClimbingStairs.climbStairs(44);
     }
 
     private static void twoSum() {
