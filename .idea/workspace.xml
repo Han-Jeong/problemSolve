@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8edc08b-4854-4353-9183-db8c80ff1ea8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/april/week4/coinChange/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/april/week4/coinChange/problem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/april/week4/reverseLinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/april/week4/reverseLinkedList/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/april/week4/reverseLinkedList/problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13d80fb7a3690ac27c3aa91dad8f1c592fa50f32" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13d80fb7a3690ac27c3aa91dad8f1c592fa50f32" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9460f95008a9e752555abafb8bf595aa84611ee2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/9460f95008a9e752555abafb8bf595aa84611ee2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6437f5b8c343a978a0fd1508a65376a0889883a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6437f5b8c343a978a0fd1508a65376a0889883a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee395775f5f12a8ebc2830754c5fd565662e4459" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee395775f5f12a8ebc2830754c5fd565662e4459" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9724f03c63a5765a970d4c6dac7233deb6a37817" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9724f03c63a5765a970d4c6dac7233deb6a37817" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/april/week4/reverseLinkedList/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/april/week4/reverseLinkedList/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/april/week4/reverseLinkedList/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/april/week4/reverseLinkedList/ReverseLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +98,7 @@
       <workItem from="1711609146303" duration="6306000" />
       <workItem from="1713503000044" duration="5794000" />
       <workItem from="1713517372209" duration="11343000" />
-      <workItem from="1714045021734" duration="6808000" />
+      <workItem from="1714045021734" duration="8507000" />
     </task>
     <servers />
   </component>

@@ -12,6 +12,15 @@ public class Main {
 //        bestTimeToBuyAndSellStock();
 //        containsDuplicate();
 //        ClimbingStairs.differentAnswer(44);
+        ListNode listNode1 = new ListNode(1);
+        ListNode listNode2 = new ListNode(2, listNode1);
+        ListNode listNode3 = new ListNode(3, listNode2);
+        ListNode listNode = ReverseLinkedList.differentAnswer(listNode3);
+        while (listNode != null) {
+            System.out.println("listNode = " + listNode.getVal());
+            listNode = listNode.next;
+        }
+
     }
 
     private static void twoSum() {

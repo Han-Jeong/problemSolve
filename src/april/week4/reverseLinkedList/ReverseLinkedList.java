@@ -11,6 +11,17 @@ public class ReverseLinkedList {
         return newListNode;
     }
 
+    public static ListNode differentAnswer(ListNode head) {
+        ListNode prev = null;
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
+        }
+        return prev;
+    }
+
 
 }
 

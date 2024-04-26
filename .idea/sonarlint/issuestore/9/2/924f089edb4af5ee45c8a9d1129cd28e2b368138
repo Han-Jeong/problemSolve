@@ -1,19 +1,16 @@
 
 ]
-java:S1220""Move this file to a named package.8†ëåÀñ1J$eeeda918-b297-4243-886d-f65bcbba03bc
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÇĞÍ®ıÿÿÿÿ8ëåÀñ1J$e27d1b1f-d669-4711-8ec1-8d6c1c951dbc
-r	java:S106"+Replace this use of System.out by a logger.(£ÑŠÿÿÿÿÿ8—ëåÀñ1J$21f6a703-dc46-485d-ba33-7fda91140452
-r	java:S106"+Replace this use of System.out by a logger.(¥ôŸşÿÿÿÿ8ö½Áñ1J$309c55c0-918a-4dca-b4af-4bc63d912abd
-r	java:S106!"+Replace this use of System.out by a logger.(…ò•ùÿÿÿÿ8ù…Äñ1J$6e191a85-954a-4b2c-bdef-892ba8c9f039
-
-java:S1128"FRemove this unused import 'april.week3.climbingStairs.ClimbingStairs'.(–úøúüÿÿÿÿ8·å¢Äñ1J$059e3923-3b44-40de-bf30-61b14c68069e
-e
-java:S1128"CRemove this unused import 'april.week4.reverseLinkedList.ListNode'.(Øêï¹ÿÿÿÿÿ8›·ªÄñ1
-i
-java:S1128"LRemove this unused import 'april.week4.reverseLinkedList.ReverseLinkedList'.(‡˜è8œ·ªÄñ1
+java:S1220""Move this file to a named package.8†ëåÀñ1J$43cf23cf-a7a7-49e8-a205-9bb40980ecce
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÇĞÍ®ıÿÿÿÿ8ëåÀñ1J$746dd511-3b52-4859-9092-cd0cf5f463e8
+m	java:S106"+Replace this use of System.out by a logger.(Öüƒì8—ëåÀñ1J$c06ea8c9-f672-4206-82a8-93de06d6c11a
+r	java:S106"+Replace this use of System.out by a logger.(£ÑŠÿÿÿÿÿ8ö½Áñ1J$323b0497-f886-4ca6-b755-49329e11dace
+r	java:S106$"+Replace this use of System.out by a logger.(¥ôŸşÿÿÿÿ8ù…Äñ1J$33e6bbb5-a990-4b34-ae69-c34a57ed2140
+r	java:S106*"+Replace this use of System.out by a logger.(…ò•ùÿÿÿÿ8©‘„Åñ1J$3f859b81-6349-4e79-9757-0baaec565978
+h
+java:S1128"FRemove this unused import 'april.week3.climbingStairs.ClimbingStairs'.(–úøúüÿÿÿÿ8åÁ‡Åñ1
 s
-java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ıÿÿÿÿ8˜ëåÀñ1J$6dbee8b6-d528-400c-b41b-c8e0f2d6d82b
+java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ıÿÿÿÿ8˜ëåÀñ1J$7ef6d187-7df1-466f-bef8-3f59c6f8a58d
 
-java:S1144">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8™ëåÀñ1J$9d3ca01d-52b2-4fe5-adad-9a44c9d6b6e5
+java:S1144!">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8™ëåÀñ1J$b12f6fbe-8209-40b1-9bbd-b92464c90291
 ~
-java:S1144"6Remove this unused private "containsDuplicate" method.(ïô¼ùÿÿÿÿ8šëåÀñ1J$f1857dbd-2237-4e23-920a-b816e0a0577a
+java:S1144'"6Remove this unused private "containsDuplicate" method.(ïô¼ùÿÿÿÿ8šëåÀñ1J$54a6ba4d-d973-4a81-9f3c-9bcd880432c1
