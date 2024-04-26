@@ -38,3 +38,13 @@ b
 2src/april/week3/climbingStairs/ClimbingStairs.java,1/3/13d80fb7a3690ac27c3aa91dad8f1c592fa50f32
 =
 src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
+U
+%src/april/week4/coinChange/problem.md,b/d/bd7c984656ad955a0a84057ee8bec19967c80623
+Z
+*src/april/week4/coinChange/CoinChange.java,a/7/a782c259eafa2aa0801f9c1db111f7ba94559151
+\
+,src/april/week4/reverseLinkedList/problem.md,d/e/de619f68d7ab4466857b788c1b7cb0cc1b9bf2b0
+h
+8src/april/week4/reverseLinkedList/ReverseLinkedList.java,9/7/9724f03c63a5765a970d4c6dac7233deb6a37817
+_
+/src/april/week4/reverseLinkedList/ListNode.java,3/c/3c560fc4bb70ac5526864bbf5a2c3008b93f5f57
