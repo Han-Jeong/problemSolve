@@ -1,4 +1,6 @@
 import april.week3.climbingStairs.ClimbingStairs;
+import april.week4.maximumDepthOfBinaryTree.MaxDepthOfBT;
+import april.week4.maximumDepthOfBinaryTree.TreeNode;
 import april.week4.reverseLinkedList.ListNode;
 import april.week4.reverseLinkedList.ReverseLinkedList;
 import march.fifth.TwoSum;
@@ -12,14 +14,13 @@ public class Main {
 //        bestTimeToBuyAndSellStock();
 //        containsDuplicate();
 //        ClimbingStairs.differentAnswer(44);
-        ListNode listNode1 = new ListNode(1);
-        ListNode listNode2 = new ListNode(2, listNode1);
-        ListNode listNode3 = new ListNode(3, listNode2);
-        ListNode listNode = ReverseLinkedList.differentAnswer(listNode3);
-        while (listNode != null) {
-            System.out.println("listNode = " + listNode.getVal());
-            listNode = listNode.next;
-        }
+        TreeNode treeNode = new TreeNode(5);
+        treeNode.addNode(3);
+        treeNode.addNode(10);
+        treeNode.addNode(7);
+        MaxDepthOfBT maxDepthOfBT = new MaxDepthOfBT();
+        int depth = maxDepthOfBT.maxDepth(treeNode);
+        System.out.println("depth = " + depth);
 
     }
 

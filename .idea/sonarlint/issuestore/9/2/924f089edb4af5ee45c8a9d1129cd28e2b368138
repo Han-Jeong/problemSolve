@@ -1,16 +1,14 @@
 
 ]
-java:S1220""Move this file to a named package.8†ëåÀñ1J$43cf23cf-a7a7-49e8-a205-9bb40980ecce
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÇĞÍ®ıÿÿÿÿ8ëåÀñ1J$746dd511-3b52-4859-9092-cd0cf5f463e8
-m	java:S106"+Replace this use of System.out by a logger.(Öüƒì8—ëåÀñ1J$c06ea8c9-f672-4206-82a8-93de06d6c11a
-r	java:S106"+Replace this use of System.out by a logger.(£ÑŠÿÿÿÿÿ8ö½Áñ1J$323b0497-f886-4ca6-b755-49329e11dace
-r	java:S106$"+Replace this use of System.out by a logger.(¥ôŸşÿÿÿÿ8ù…Äñ1J$33e6bbb5-a990-4b34-ae69-c34a57ed2140
-r	java:S106*"+Replace this use of System.out by a logger.(…ò•ùÿÿÿÿ8©‘„Åñ1J$3f859b81-6349-4e79-9757-0baaec565978
-h
-java:S1128"FRemove this unused import 'april.week3.climbingStairs.ClimbingStairs'.(–úøúüÿÿÿÿ8åÁ‡Åñ1
+java:S1220""Move this file to a named package.8ÊÕıÅñ1J$d60eb7d6-7fb5-4eba-a6cf-c5c7bd01c7e5
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÇĞÍ®ıÿÿÿÿ8ÒÕıÅñ1J$5fdc4de1-fdf1-490b-bfb1-888d6160b2a6
+l	java:S106"+Replace this use of System.out by a logger.(Ã©İ8ÔÕıÅñ1J$62da7e30-9644-4ec4-a012-d8be0c22161c
+r	java:S106"+Replace this use of System.out by a logger.(£ÑŠÿÿÿÿÿ8ÖÕıÅñ1J$6d3725be-954f-45ab-96c8-736dc5b7d2bc
+r	java:S106%"+Replace this use of System.out by a logger.(¥ôŸşÿÿÿÿ8×ÕıÅñ1J$c614d761-7ba3-4ca8-922c-b9cb8e19190c
+L	java:S106+"+Replace this use of System.out by a logger.(…ò•ùÿÿÿÿ8ÉÿÅñ1
 s
-java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ıÿÿÿÿ8˜ëåÀñ1J$7ef6d187-7df1-466f-bef8-3f59c6f8a58d
+java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ıÿÿÿÿ8ÙÕıÅñ1J$ffa9a0a9-e927-4b8e-8c35-4330e4896131
 
-java:S1144!">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8™ëåÀñ1J$b12f6fbe-8209-40b1-9bbd-b92464c90291
+java:S1144"">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8ÚÕıÅñ1J$5a613cac-f433-4fdf-a2c6-d76199c3dcbb
 ~
-java:S1144'"6Remove this unused private "containsDuplicate" method.(ïô¼ùÿÿÿÿ8šëåÀñ1J$54a6ba4d-d973-4a81-9f3c-9bcd880432c1
+java:S1144("6Remove this unused private "containsDuplicate" method.(ïô¼ùÿÿÿÿ8ÜÕıÅñ1J$94d4d66d-4e4b-4757-9b8a-d97d4afe3bc9
