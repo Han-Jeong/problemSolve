@@ -1,11 +1,12 @@
 import april.week3.climbingStairs.ClimbingStairs;
 import april.week4.maximumDepthOfBinaryTree.MaxDepthOfBT;
 import april.week4.maximumDepthOfBinaryTree.TreeNode;
-import april.week4.reverseLinkedList.ListNode;
 import april.week4.reverseLinkedList.ReverseLinkedList;
 import march.fifth.TwoSum;
 import march.seventh.ContainsDuplicate;
 import march.sixth.BestTimeToBuyAndSellStock;
+import may.week1.linkedListCycle.LinkedListCycle;
+import may.week1.linkedListCycle.ListNode;
 
 public class Main {
     public static void main(String[] args) {
@@ -14,13 +15,11 @@ public class Main {
 //        bestTimeToBuyAndSellStock();
 //        containsDuplicate();
 //        ClimbingStairs.differentAnswer(44);
-        TreeNode treeNode = new TreeNode(5);
-        treeNode.addNode(3);
-        treeNode.addNode(10);
-        treeNode.addNode(7);
-        MaxDepthOfBT maxDepthOfBT = new MaxDepthOfBT();
-        int depth = maxDepthOfBT.maxDepth(treeNode);
-        System.out.println("depth = " + depth);
+        ListNode listNode = new ListNode(1);
+        listNode.next = new ListNode(2);
+        listNode.next = listNode;
+        boolean result = LinkedListCycle.myAnswer(listNode);
+        System.out.println("result = " + result);
 
     }
 
