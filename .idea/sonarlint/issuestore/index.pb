@@ -62,3 +62,11 @@ b
 2src/may/week1/linkedListCycle/LinkedListCycle.java,0/4/04b1ab05c4d998fb939cdf5d7eb363f3cfa16f15
 [
 +src/may/week1/linkedListCycle/ListNode.java,a/8/a865e5302a516b22b5ae0bc1ac607768cea123bb
+a
+1src/may/week1/linkedListCycle/CustomListnode.java,1/2/1249ff06100661c99b5931e4b625b0632519d015
+U
+%src/may/week1/validAnagram/problem.md,b/7/b78267fa4310dce666d297208955426bbeb05958
+]
+-src/may/week1/validAnagram/ValidaAnagram.java,8/0/8083b401fb29eea04fbd4ade767732b525230359
+\
+,src/may/week1/validAnagram/ValidAnagram.java,6/1/610214192afe5164ede15396448c7c9c6b556819

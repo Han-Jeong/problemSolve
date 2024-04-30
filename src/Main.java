@@ -7,6 +7,7 @@ import march.seventh.ContainsDuplicate;
 import march.sixth.BestTimeToBuyAndSellStock;
 import may.week1.linkedListCycle.LinkedListCycle;
 import may.week1.linkedListCycle.ListNode;
+import may.week1.validAnagram.ValidAnagram;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,10 +16,7 @@ public class Main {
 //        bestTimeToBuyAndSellStock();
 //        containsDuplicate();
 //        ClimbingStairs.differentAnswer(44);
-        ListNode listNode = new ListNode(1);
-        listNode.next = new ListNode(2);
-        listNode.next = listNode;
-        boolean result = LinkedListCycle.myAnswer(listNode);
+        boolean result = ValidAnagram.myAnswer("aacc", "ccac");
         System.out.println("result = " + result);
 
     }

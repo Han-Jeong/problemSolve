@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8edc08b-4854-4353-9183-db8c80ff1ea8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/may/week1/linkedListCycle/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/may/week1/linkedListCycle/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/may/week1/linkedListCycle/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/may/week1/validAnagram/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/may/week1/validAnagram/problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04b1ab05c4d998fb939cdf5d7eb363f3cfa16f15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04b1ab05c4d998fb939cdf5d7eb363f3cfa16f15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/may/week1/linkedListCycle/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/may/week1/linkedListCycle/LinkedListCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +104,7 @@
       <workItem from="1711609146303" duration="6306000" />
       <workItem from="1713503000044" duration="5794000" />
       <workItem from="1713517372209" duration="11343000" />
-      <workItem from="1714045021734" duration="14624000" />
+      <workItem from="1714045021734" duration="22980000" />
     </task>
     <servers />
   </component>
