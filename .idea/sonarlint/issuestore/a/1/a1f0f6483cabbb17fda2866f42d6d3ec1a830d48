@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰¦ÀĞ8ìË®˜õ1J$a6a070f8-e69d-409e-9b0b-d9bae87caf5c
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(æÔî½ùÿÿÿÿ8ùË®˜õ1J$e372908d-5113-4248-a1a1-f6309bab197d
+u
+java:S3020"-Pass "new int[][0]" as argument to "toArray".(“Ìşşÿÿÿÿ8¼„±˜õ1J$07bc7cbb-d95d-4ebc-b5a9-122b2d0c148e
+ƒ
+java:S1126"AReplace this if-then-else statement by a single return statement.(¦ÉÖH8ûË®˜õ1J$777d2953-97bd-4735-8d96-33978dd3c176
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8åµ˜õ1
