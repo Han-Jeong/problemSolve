@@ -1,4 +1,4 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í‹Äéýÿÿÿÿ8©Œážó1J$696d2122-e526-426a-aa94-9d02aec6da36
-É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹€Í‘ûÿÿÿÿ8•©çžó1J$63523183-197a-4efd-a49e-863209b42deb
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í‹Äéýÿÿÿÿ8©Œážó1J$435d83d3-10f9-4271-ae8c-4476f2c30e7e
+€
+java:S1172"8Remove these unused method parameters "coins", "amount".(‹€Í‘ûÿÿÿÿ8¤ðç•ö1J$5142976b-a82b-4351-8826-a27d72fe18b2

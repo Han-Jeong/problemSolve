@@ -8,6 +8,7 @@ import march.sixth.BestTimeToBuyAndSellStock;
 import may.week1.linkedListCycle.LinkedListCycle;
 import may.week1.linkedListCycle.ListNode;
 import may.week1.validAnagram.ValidAnagram;
+import may.week2.insertInterval.InsertInterval;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,8 +17,18 @@ public class Main {
 //        bestTimeToBuyAndSellStock();
 //        containsDuplicate();
 //        ClimbingStairs.differentAnswer(44);
-        boolean result = ValidAnagram.myAnswer("aacc", "ccac");
-        System.out.println("result = " + result);
+//        boolean result = ValidAnagram.myAnswer("aacc", "ccac");
+//        System.out.println("result = " + result);
+        int[][] array = {{1, 2}, {3, 5}, {6, 7}, {8, 10}, {12, 16}};
+        int[] insert = {4, 8};
+        int[][] result = InsertInterval.insert(array, insert);
+        for (int i = 0; i < result.length; i++) {
+            System.out.println("i = " + i);
+            for (int j = 0; j < result[i].length; j++) {
+                System.out.println("result = " + result[i][j]);
+            }
+        }
+
 
     }
 
