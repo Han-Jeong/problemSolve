@@ -4,7 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class CloneGraph {
-    public Node cloneGraph(Node node) {
+    public static Node cloneGraph(Node node) {
+        if (node == null) {
+            return null;
+        }
         HashMap<Integer, Node> nodeMap = new HashMap<>();
         Node saveNode = node;
         Node newlyconnectNode = new Node(node.val);
@@ -14,17 +17,20 @@ public class CloneGraph {
         while (validateQuitLoop(node, saveNode)) {
             if (node.neighbors.isEmpty()) {
                 newlyconnectNode = connectCopyNode(saveNode.val, nodeMap.get(node.val), nodeMap);
+                System.out.println("index : " + saveNode.val + " [" + node.val + "]");
                 saveNode.neighbors.remove(node);
                 node = saveNode;
             }
             else{
                 if (saveNode != node) {
-                    newlyconnectNode = connectCopyNode(saveNode.val, newlyconnectNode, nodeMap);
+                    connectCopyNode(saveNode.val, newlyconnectNode, nodeMap);
+                    System.out.println("index : " + saveNode.val + " [" + node.val + "]");
                     saveNode.neighbors.remove(node);
                 }
                 saveNode = node;
                 node = node.neighbors.get(0);
                 newlyconnectNode = connectCopyNode(node.val, newlyconnectNode, nodeMap);
+                System.out.println("index : " + node.val + " [" + saveNode.val + "]");
                 node.neighbors.remove(saveNode);
             }
         }

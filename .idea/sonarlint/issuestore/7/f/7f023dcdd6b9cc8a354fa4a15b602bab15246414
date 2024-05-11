@@ -1,4 +1,15 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¬ï†8– Æ½ö1J$942b7bc8-6cc0-4223-a312-f47b7b716e3e
+‘
+java:S1192"IDefine a constant instead of duplicating this literal "index : " 3 times.(×¥üôùÿÿÿÿ8†•¥¾ö1J$8245aec9-867c-411b-9062-04c11990e35d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¬ï†8úæ¤¾ö1J$ca501399-6d6a-4cf0-96ef-21fa9ac79f1f
+Š
+java:S38240"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(´Èã@8ˆç¤¾ö1J$1b1b7980-c656-4572-8c00-f887dd7c7bfa
+}
+java:S1118":Add a private constructor to hide the implicit public one.(âáæ8‰ç¤¾ö1J$9b8104cc-f77f-43a2-b7f0-60f56e58adba
+r	java:S106"+Replace this use of System.out by a logger.(×¥üôùÿÿÿÿ8Šç¤¾ö1J$59d8ea26-57c1-4bbf-88a8-9425977b3755
+r	java:S106"+Replace this use of System.out by a logger.(×¥üôùÿÿÿÿ8‹ç¤¾ö1J$16838824-06ad-47de-ae4e-3efb89b73df9
+m	java:S106!"+Replace this use of System.out by a logger.(‰Âƒ¶8˜•¥¾ö1J$c112de21-10b2-4c0a-9ab7-dad8b091e733
 ‰
-java:S1126#"AReplace this if-then-else statement by a single return statement.(ÍÄ´‘üÿÿÿÿ8™ Æ½ö1J$ef65de5f-ccca-4b65-844c-30cd808ef4bd
+java:S1126)"AReplace this if-then-else statement by a single return statement.(ÍÄ´‘üÿÿÿÿ8‹ç¤¾ö1J$08fdff8a-f6d3-4394-b776-107a8a7ddb7c
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Œç¤¾ö1J$c6fba73e-7bbf-4a41-900a-cafc61168841

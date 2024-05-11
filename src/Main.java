@@ -8,7 +8,11 @@ import march.sixth.BestTimeToBuyAndSellStock;
 import may.week1.linkedListCycle.LinkedListCycle;
 import may.week1.linkedListCycle.ListNode;
 import may.week1.validAnagram.ValidAnagram;
+import may.week2.cloneGraph.CloneGraph;
+import may.week2.cloneGraph.Node;
 import may.week2.insertInterval.InsertInterval;
+
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -19,15 +23,18 @@ public class Main {
 //        ClimbingStairs.differentAnswer(44);
 //        boolean result = ValidAnagram.myAnswer("aacc", "ccac");
 //        System.out.println("result = " + result);
-        int[][] array = {{1, 2}, {3, 5}, {6, 7}, {8, 10}, {12, 16}};
-        int[] insert = {4, 8};
-        int[][] result = InsertInterval.insert(array, insert);
-        for (int i = 0; i < result.length; i++) {
-            System.out.println("i = " + i);
-            for (int j = 0; j < result[i].length; j++) {
-                System.out.println("result = " + result[i][j]);
-            }
-        }
+        Node node1 = new Node(1);
+        Node node2 = new Node(2);
+        Node node3 = new Node(3);
+        Node node4 = new Node(4);
+        Node node5 = new Node(5);
+        node1.neighbors.addAll(List.of(node2, node5));
+        node2.neighbors.addAll(List.of(node1, node3, node5));
+        node3.neighbors.addAll(List.of(node2, node4, node5));
+        node4.neighbors.add(node3);
+        node5.neighbors.addAll(List.of(node1, node2, node3));
+
+        Node node = CloneGraph.cloneGraph(node1);
 
 
     }

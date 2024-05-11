@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8edc08b-4854-4353-9183-db8c80ff1ea8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/610214192afe5164ede15396448c7c9c6b556819" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/610214192afe5164ede15396448c7c9c6b556819" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f023dcdd6b9cc8a354fa4a15b602bab15246414" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f023dcdd6b9cc8a354fa4a15b602bab15246414" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1f0f6483cabbb17fda2866f42d6d3ec1a830d48" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1f0f6483cabbb17fda2866f42d6d3ec1a830d48" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a782c259eafa2aa0801f9c1db111f7ba94559151" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a782c259eafa2aa0801f9c1db111f7ba94559151" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a865e5302a516b22b5ae0bc1ac607768cea123bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a865e5302a516b22b5ae0bc1ac607768cea123bb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/april/week4/coinChange/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/april/week4/coinChange/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/may/week2/insertInterval/InsertInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/may/week2/insertInterval/InsertInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Debug",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -108,7 +104,7 @@
       <workItem from="1714648776944" duration="765000" />
       <workItem from="1714900135209" duration="754000" />
       <workItem from="1715063872953" duration="8275000" />
-      <workItem from="1715347604203" duration="5238000" />
+      <workItem from="1715347604203" duration="18716000" />
     </task>
     <servers />
   </component>
@@ -134,19 +130,59 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/may/week2/insertInterval/InsertInterval.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/may/week2/insertInterval/InsertInterval.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/may/week2/insertInterval/InsertInterval.java</url>
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
           <line>14</line>
-          <option name="timeStamp" value="24" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week2/cloneGraph/CloneGraph.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
