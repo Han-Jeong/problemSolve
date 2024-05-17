@@ -1,15 +1,15 @@
 
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÙÂË8¢¦„±ö1
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÙÂË8¢¦„±ö1
-‡
-java:S1319"jThe type of "_neighbors" should be an interface such as "List" rather than the implementation "ArrayList".(™ ƒ8¦¦„±ö1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛÀ¼8§¦„±ö1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ ƒ8§¦„±ö1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ ƒ8§¦„±ö1
-l
-java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8§¦„±ö1
-r
-java:S1104"UMake neighbors a static final constant or non-public and provide accessors if needed.(«³›æ8§¦„±ö1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¬ï†8§¦„±ö1
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÙÂË8¢¦„±ö1J$68e4dfd3-4b30-4ecd-862d-745bb7b74fad
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓÙÂË8¢¦„±ö1J$62699e49-053d-41e5-b773-abb972724aa6
+­
+java:S1319"jThe type of "_neighbors" should be an interface such as "List" rather than the implementation "ArrayList".(™ ƒ8¦¦„±ö1J$1e7a874b-68ca-4f3c-8a3a-31c5409cb638
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛÀ¼8§¦„±ö1J$ec4fc743-74a7-4638-be93-8ea737fdb0d4
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ ƒ8§¦„±ö1J$ce386b3a-eb41-495f-9213-0ae9ab44928d
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ ƒ8§¦„±ö1J$2f340d61-b9aa-4bb1-bcbd-096d6a4b5ccc
+’
+java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8§¦„±ö1J$08027f0d-7e1a-4784-8e01-293ca1f54a2b
+˜
+java:S1104"UMake neighbors a static final constant or non-public and provide accessors if needed.(«³›æ8§¦„±ö1J$9481f632-3ad3-45d3-a4f7-a66b42ddc135
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¬ï†8§¦„±ö1J$bc953466-644c-4b0e-b6f1-770bbe1f555c

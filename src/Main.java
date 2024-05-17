@@ -1,7 +1,7 @@
 import april.week3.climbingStairs.ClimbingStairs;
 import april.week4.maximumDepthOfBinaryTree.MaxDepthOfBT;
-import april.week4.maximumDepthOfBinaryTree.TreeNode;
 import april.week4.reverseLinkedList.ReverseLinkedList;
+import com.sun.source.tree.Tree;
 import march.fifth.TwoSum;
 import march.seventh.ContainsDuplicate;
 import march.sixth.BestTimeToBuyAndSellStock;
@@ -11,30 +11,23 @@ import may.week1.validAnagram.ValidAnagram;
 import may.week2.cloneGraph.CloneGraph;
 import may.week2.cloneGraph.Node;
 import may.week2.insertInterval.InsertInterval;
+import may.week3.sameTree.SameTree;
+import may.week3.sameTree.TreeNode;
 
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
 
-//        twoSum();
-//        bestTimeToBuyAndSellStock();
-//        containsDuplicate();
-//        ClimbingStairs.differentAnswer(44);
-//        boolean result = ValidAnagram.myAnswer("aacc", "ccac");
-//        System.out.println("result = " + result);
-        Node node1 = new Node(1);
-        Node node2 = new Node(2);
-        Node node3 = new Node(3);
-        Node node4 = new Node(4);
-        Node node5 = new Node(5);
-        node1.neighbors.addAll(List.of(node2, node5));
-        node2.neighbors.addAll(List.of(node1, node3, node5));
-        node3.neighbors.addAll(List.of(node2, node4, node5));
-        node4.neighbors.add(node3);
-        node5.neighbors.addAll(List.of(node1, node2, node3));
+        TreeNode treeNode1 = new TreeNode(1);
+        TreeNode treeNode2 = new TreeNode(2);
+        TreeNode treeNode = new TreeNode(1, treeNode1, treeNode2);
 
-        Node node = CloneGraph.cloneGraph(node1);
+        TreeNode treeNode4 = new TreeNode(2);
+        TreeNode treeNode5 = new TreeNode(1);
+        TreeNode treeNode3 = new TreeNode(1, treeNode4, treeNode5);
+
+        SameTree.isSameTree(treeNode, treeNode3);
 
 
     }
