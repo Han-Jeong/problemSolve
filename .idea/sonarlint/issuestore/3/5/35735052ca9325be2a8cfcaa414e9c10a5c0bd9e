@@ -1,7 +1,9 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è»ìË8›æÅø1J$d999fbcd-10b2-4377-b2cc-0c914fee9eae
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è»ìË8³Æ¦Åø1J$5475600d-d98a-4116-b349-8bc606138a29
+€
+java:S2259""?A "NullPointerException" could be thrown; "p" is nullable here.(²¹8îş¨Åø1J$a51214e3-2efc-461b-a7f4-a36bdc0c9c08
 }
-java:S1118":Add a private constructor to hide the implicit public one.(ÂÀ8 æÅø1J$39342735-628e-41ea-84cf-8e60cdc626c2
-•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€òûÿÿÿÿ8¡æÅø1J$a5df9d1b-07b8-46da-8744-16edcc39a80f
+java:S1118":Add a private constructor to hide the implicit public one.(ÂÀ8·Æ¦Åø1J$c166df5e-9de5-4c1d-aa8f-0c347edd1874
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€òûÿÿÿÿ8¹Æ¦Åø1J$2770bd13-3eac-4ed6-b11c-7a67f79e35b2
 }
-java:S1854":Remove this useless assignment to local variable "result".(ˆáŒƒ8£æÅø1J$92aaca7c-b717-465e-a127-e0a37c1f652b
+java:S1854":Remove this useless assignment to local variable "result".(ˆáŒƒ8»Æ¦Åø1J$163fdbae-b8a7-44e8-9c08-05319e87359a

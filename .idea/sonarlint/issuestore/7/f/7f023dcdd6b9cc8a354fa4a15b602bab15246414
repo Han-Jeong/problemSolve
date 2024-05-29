@@ -1,15 +1,15 @@
 
 ‘
-java:S1192"IDefine a constant instead of duplicating this literal "index : " 3 times.(Χ¥ότωÿÿÿÿ8†•¥Ύφ1J$9c0a474c-7e00-4787-9133-dbbd9748f0e1
-	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¬ο†8ϊζ¤Ύφ1J$4838885e-83d2-40df-ab04-d169f49662a6
+java:S1192"IDefine a constant instead of duplicating this literal "index : " 3 times.(Χ¥ότωÿÿÿÿ8†•¥Ύφ1J$7c15baa1-0f8f-4429-bcf1-c3aeb5f5b113
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¬ο†8ϊζ¤Ύφ1J$5a0afe2a-7328-44d7-ac65-aaf7637387c5
 
-java:S38240"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(΄Θγ@8η¤Ύφ1J$2cd252d5-ddb5-4f77-96cd-0a8c3aeba0b3
+java:S38240"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(΄Θγ@8η¤Ύφ1J$75f5a875-318a-4be6-bb17-8a9abab817fa
 }
-java:S1118":Add a private constructor to hide the implicit public one.(βαζ8‰η¤Ύφ1J$bde8cd5a-3855-4ef6-af36-5d22b3d1789d
-r	java:S106"+Replace this use of System.out by a logger.(Χ¥ότωÿÿÿÿ8η¤Ύφ1J$9219ded5-35f7-4b86-90a8-2fafc1072b10
-r	java:S106"+Replace this use of System.out by a logger.(Χ¥ότωÿÿÿÿ8‹η¤Ύφ1J$5d30fe68-3fcb-4f2f-91ff-af34cf12662d
-m	java:S106!"+Replace this use of System.out by a logger.(‰Βƒ¶8•¥Ύφ1J$2beeead3-4d7e-4f41-9dab-5eeceb8e1e2f
+java:S1118":Add a private constructor to hide the implicit public one.(βαζ8‰η¤Ύφ1J$0f0122ec-97f9-43a6-8e25-dfe35b26de4a
+r	java:S106"+Replace this use of System.out by a logger.(Χ¥ότωÿÿÿÿ8η¤Ύφ1J$f6b74b1c-e2c6-4a1e-81c4-95ccec4f8a8e
+r	java:S106"+Replace this use of System.out by a logger.(Χ¥ότωÿÿÿÿ8‹η¤Ύφ1J$fdc5b779-75e7-4300-8ea7-148e748a3fc2
+m	java:S106!"+Replace this use of System.out by a logger.(‰Βƒ¶8•¥Ύφ1J$cd6b2b07-9922-4a6b-ac6b-bb45612477ef
 ‰
-java:S1126)"AReplace this if-then-else statement by a single return statement.(ΝΔ΄‘όÿÿÿÿ8‹η¤Ύφ1J$6a3f9f3b-7bb0-479a-8e10-1331866ad98f
+java:S1126)"AReplace this if-then-else statement by a single return statement.(ΝΔ΄‘όÿÿÿÿ8‹η¤Ύφ1J$421a422f-42fe-4fff-bb7e-3e1a1cc0b1d4
 r
-java:S1128"*Remove this unused import 'java.util.Map'.(Όθ½Òώÿÿÿÿ8η¤Ύφ1J$d906253a-9552-4abc-8038-9688ceedea41
+java:S1128"*Remove this unused import 'java.util.Map'.(Όθ½Òώÿÿÿÿ8η¤Ύφ1J$8b3af249-792e-4744-8877-53609ebcfc18

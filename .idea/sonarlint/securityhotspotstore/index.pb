@@ -80,3 +80,7 @@ T
 $src/may/week3/sameTree/TreeNode.java,3/b/3b369630a005e65e71c5b4f1b392708fcd1ea05b
 T
 $src/may/week3/sameTree/SameTree.java,3/5/35735052ca9325be2a8cfcaa414e9c10a5c0bd9e
+s
+Csrc/may/week3/longestSubstringWithoutRepeatingCharacters/problem.md,3/e/3e1672ef08268a87a03a6546829ace14dd528063
+˜
+hsrc/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java,4/e/4e59a4619405bcccbada91d984435d307ac261c9

@@ -11,6 +11,7 @@ import may.week1.validAnagram.ValidAnagram;
 import may.week2.cloneGraph.CloneGraph;
 import may.week2.cloneGraph.Node;
 import may.week2.insertInterval.InsertInterval;
+import may.week3.longestSubstringWithoutRepeatingCharacters.LongestSubstringWithoutRepeatingCharacters;
 import may.week3.sameTree.SameTree;
 import may.week3.sameTree.TreeNode;
 
@@ -18,16 +19,9 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-
-        TreeNode treeNode1 = new TreeNode(1);
-        TreeNode treeNode2 = new TreeNode(2);
-        TreeNode treeNode = new TreeNode(1, treeNode1, treeNode2);
-
-        TreeNode treeNode4 = new TreeNode(2);
-        TreeNode treeNode5 = new TreeNode(1);
-        TreeNode treeNode3 = new TreeNode(1, treeNode4, treeNode5);
-
-        SameTree.isSameTree(treeNode, treeNode3);
+        String test1 = "pwwekw";
+        int solution = LongestSubstringWithoutRepeatingCharacters.solution(test1);
+        System.out.println("solution = " + solution);
 
 
     }
