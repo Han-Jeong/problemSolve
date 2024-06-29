@@ -19,8 +19,8 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String test1 = "pwwekw";
-        int solution = LongestSubstringWithoutRepeatingCharacters.solution(test1);
+        String test1 = "abcabcbb";
+        int solution = LongestSubstringWithoutRepeatingCharacters.bestSolution(test1);
         System.out.println("solution = " + solution);
 
 

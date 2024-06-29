@@ -84,3 +84,9 @@ s
 Csrc/may/week3/longestSubstringWithoutRepeatingCharacters/problem.md,3/e/3e1672ef08268a87a03a6546829ace14dd528063
 ˜
 hsrc/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java,4/e/4e59a4619405bcccbada91d984435d307ac261c9
+[
++src/june/week4/containsDuplicate/problem.md,c/8/c8dace39cfe6307ff5a042e77de2df1129eab872
+e
+5src/june/week4/longestIncreasingSubsquence/problem.md,9/c/9cdb8dcd7bc4efd6ebe5be434ff37c3a3c1b7c2d
+g
+7src/june/week4/containsDuplicate/ContainsDuplicate.java,b/a/bad3ca1bc50667f4618fe2d75cb1a5a6175d1100

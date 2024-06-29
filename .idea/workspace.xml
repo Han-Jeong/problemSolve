@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8edc08b-4854-4353-9183-db8c80ff1ea8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/problem.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35735052ca9325be2a8cfcaa414e9c10a5c0bd9e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35735052ca9325be2a8cfcaa414e9c10a5c0bd9e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b369630a005e65e71c5b4f1b392708fcd1ea05b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b369630a005e65e71c5b4f1b392708fcd1ea05b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eecba46b2f8eb92dc4746de1fef6ff49c0c8a3f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7eecba46b2f8eb92dc4746de1fef6ff49c0c8a3f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f023dcdd6b9cc8a354fa4a15b602bab15246414" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f023dcdd6b9cc8a354fa4a15b602bab15246414" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e59a4619405bcccbada91d984435d307ac261c9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e59a4619405bcccbada91d984435d307ac261c9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a782c259eafa2aa0801f9c1db111f7ba94559151" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a782c259eafa2aa0801f9c1db111f7ba94559151" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a865e5302a516b22b5ae0bc1ac607768cea123bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a865e5302a516b22b5ae0bc1ac607768cea123bb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/may/week3/sameTree/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/may/week3/sameTree/SameTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,24 +42,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hann/study/resolve/problemResolve/src/april/week3/bestTimeToBuyAndSellStock",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hann/study/resolve/problemResolve/src/april/week3/bestTimeToBuyAndSellStock&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/april/week3/bestTimeToBuyAndSellStock" />
@@ -115,7 +110,8 @@
       <workItem from="1715063872953" duration="8275000" />
       <workItem from="1715347604203" duration="21472000" />
       <workItem from="1715979498873" duration="5996000" />
-      <workItem from="1716977778375" duration="6622000" />
+      <workItem from="1716977778375" duration="12384000" />
+      <workItem from="1719052115046" duration="1769000" />
     </task>
     <servers />
   </component>
@@ -239,6 +235,46 @@
           <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
           <line>27</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/may/week3/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
