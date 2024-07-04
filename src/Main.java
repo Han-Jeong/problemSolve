@@ -3,6 +3,7 @@ import april.week4.maximumDepthOfBinaryTree.MaxDepthOfBT;
 import april.week4.reverseLinkedList.ReverseLinkedList;
 import com.sun.source.tree.Tree;
 import july.week1.happyNumber.HappyNumber;
+import july.week1.topKFrequentElements.TopKFrequentElements;
 import march.fifth.TwoSum;
 import march.seventh.ContainsDuplicate;
 import march.sixth.BestTimeToBuyAndSellStock;
@@ -20,8 +21,8 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        int test = 19;
-        HappyNumber.isHappy(19);
+        int[] test = {1, 1, 1, 2, 2, 3};
+        TopKFrequentElements.topKFrequent(test, 2);
 
 
     }

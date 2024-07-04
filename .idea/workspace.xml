@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8edc08b-4854-4353-9183-db8c80ff1ea8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/july/week1/happyNumber/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/june/week4/longestIncreasingSubsequence/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/june/week4/longestIncreasingSubsequence/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july/week1/topKFrequentElements/problem.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/june/week4/longestIncreasingSubsquence/problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/july/week1/happyNumber/problem.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +110,7 @@
       <workItem from="1715979498873" duration="5996000" />
       <workItem from="1716977778375" duration="12384000" />
       <workItem from="1719052115046" duration="1769000" />
-      <workItem from="1719623490618" duration="14221000" />
+      <workItem from="1719623490618" duration="19434000" />
     </task>
     <servers />
   </component>
@@ -321,6 +319,71 @@
           <url>file://$PROJECT_DIR$/src/july/week1/happyNumber/HappyNumber.java</url>
           <line>12</line>
           <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july/week1/topKFrequentElements/TopKFrequentElements.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="108" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

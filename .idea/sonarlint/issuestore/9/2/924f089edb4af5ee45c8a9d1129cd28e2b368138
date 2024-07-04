@@ -1,16 +1,12 @@
 
-7
-java:S1220""Move this file to a named package.8ÁËÒì‡2
-U
-java:S1854"8Remove this useless assignment to local variable "test".(¥—÷°8ÅËÒì‡2
-F
-java:S1481")Remove this unused "test" local variable.(¥—÷°8ÇËÒì‡2
-L	java:S106!"+Replace this use of System.out by a logger.(£ÑŠÿÿÿÿÿ8ÉËÒì‡2
-L	java:S106'"+Replace this use of System.out by a logger.(¥ôŸşÿÿÿÿ8ÊËÒì‡2
-L	java:S106-"+Replace this use of System.out by a logger.(…ò•ùÿÿÿÿ8ÌËÒì‡2
-M
-java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ıÿÿÿÿ8ÍËÒì‡2
-[
-java:S1144$">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8ÏËÒì‡2
-X
-java:S1144*"6Remove this unused private "containsDuplicate" method.(ïô¼ùÿÿÿÿ8ĞËÒì‡2
+]
+java:S1220""Move this file to a named package.8ÁËÒì‡2J$74028bda-2b2d-4759-9b9c-7d93e2443cab
+r	java:S106""+Replace this use of System.out by a logger.(£ÑŠÿÿÿÿÿ8ÉËÒì‡2J$2e1a011f-10b5-4e62-acba-c46193e91df0
+r	java:S106("+Replace this use of System.out by a logger.(¥ôŸşÿÿÿÿ8ÊËÒì‡2J$9a491351-34a6-4273-b9d5-b79dbc9e8f00
+r	java:S106."+Replace this use of System.out by a logger.(…ò•ùÿÿÿÿ8ÌËÒì‡2J$d8ff9302-346a-4d63-b90e-8c314148b56c
+s
+java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ıÿÿÿÿ8ÍËÒì‡2J$c0b4a107-9133-4b0d-a854-c1559cae0815
+
+java:S1144%">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8ÏËÒì‡2J$3dd935a3-9636-4c98-b41b-5b9fac1d5451
+~
+java:S1144+"6Remove this unused private "containsDuplicate" method.(ïô¼ùÿÿÿÿ8ĞËÒì‡2J$5a512bb2-be36-409f-b6ff-d58d59b80417
