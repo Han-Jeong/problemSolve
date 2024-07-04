@@ -2,6 +2,7 @@ import april.week3.climbingStairs.ClimbingStairs;
 import april.week4.maximumDepthOfBinaryTree.MaxDepthOfBT;
 import april.week4.reverseLinkedList.ReverseLinkedList;
 import com.sun.source.tree.Tree;
+import july.week1.happyNumber.HappyNumber;
 import march.fifth.TwoSum;
 import march.seventh.ContainsDuplicate;
 import march.sixth.BestTimeToBuyAndSellStock;
@@ -19,9 +20,8 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String test1 = "abcabcbb";
-        int solution = LongestSubstringWithoutRepeatingCharacters.bestSolution(test1);
-        System.out.println("solution = " + solution);
+        int test = 19;
+        HappyNumber.isHappy(19);
 
 
     }

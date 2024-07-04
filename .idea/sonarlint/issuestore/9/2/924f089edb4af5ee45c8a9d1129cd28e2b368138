@@ -1,40 +1,16 @@
 
-]
-java:S1220""Move this file to a named package.8««¡ü1J$4df872ef-18e7-464a-8556-60e0cb185df5
-r	java:S106"+Replace this use of System.out by a logger.(â§Ê€úÿÿÿÿ8®«¡ü1J$a07fdf43-5baf-431f-8883-11d8868e49ba
-r	java:S106!"+Replace this use of System.out by a logger.(£ÑŠÿÿÿÿÿ8®«¡ü1J$89faf86d-e5da-4fce-8cf6-02a8db6cb340
-r	java:S106'"+Replace this use of System.out by a logger.(¥ôŸşÿÿÿÿ8¯«¡ü1J$7a80fdba-7901-45fa-b348-8e63f380096a
-r	java:S106-"+Replace this use of System.out by a logger.(…ò•ùÿÿÿÿ8¯«¡ü1J$576edaed-eed7-4656-8e22-8d88668d2d7b
-
-java:S1128"FRemove this unused import 'april.week3.climbingStairs.ClimbingStairs'.(–úøúüÿÿÿÿ8Òıÿêü1J$752579ff-a38e-4205-8da4-ffefa71b2d21
-–
-java:S1128"NRemove this unused import 'april.week4.maximumDepthOfBinaryTree.MaxDepthOfBT'.(Éñ¼§ùÿÿÿÿ8Óıÿêü1J$65a8a621-a9d6-4813-ba05-5486cd2b610e
-
-java:S1128"LRemove this unused import 'april.week4.reverseLinkedList.ReverseLinkedList'.(‡˜è8Óıÿêü1J$3a7cca8e-1ffa-4bb6-897e-6e9669b1aa5a
-}
-java:S1128"5Remove this unused import 'com.sun.source.tree.Tree'.(·óƒüıÿÿÿÿ8Óıÿêü1J$3206a47d-25b1-470a-a9ad-97d7961fb6ef
-
-java:S1128"FRemove this unused import 'may.week1.linkedListCycle.LinkedListCycle'.(æŸ¨óşÿÿÿÿ8Óıÿêü1J$7d205f84-17c3-4e10-9fb1-39de87a06fe4
-
-java:S1128	"?Remove this unused import 'may.week1.linkedListCycle.ListNode'.(Øôz8Óıÿêü1J$10226f1c-f22c-4579-82c9-3b735b02afd5
-ˆ
-java:S1128
-"@Remove this unused import 'may.week1.validAnagram.ValidAnagram'.(¥Ô×°ÿÿÿÿÿ8Óıÿêü1J$dd290875-3792-4556-bb28-c6cfa40dda03
-~
-java:S1128"<Remove this unused import 'may.week2.cloneGraph.CloneGraph'.(°Å³68Óıÿêü1J$9462b988-61d1-4216-ae18-44815212416d
-x
-java:S1128"6Remove this unused import 'may.week2.cloneGraph.Node'.(Šë¾X8Óıÿêü1J$7392192f-61cb-4fe9-8693-76393f4c94eb
-‡
-java:S1128"DRemove this unused import 'may.week2.insertInterval.InsertInterval'.(Ç‹¨ó8Óıÿêü1J$5d088d62-5074-481f-929b-0467173b1770
-{
-java:S1128"8Remove this unused import 'may.week3.sameTree.SameTree'.(ùúµ8Óıÿêü1J$3ed98a11-e50a-4a7c-b4da-40686f3b7cbb
-€
-java:S1128"8Remove this unused import 'may.week3.sameTree.TreeNode'.(ç¯¿ºşÿÿÿÿ8Óıÿêü1J$457b801f-390b-4b6b-9dc2-f4e48aca70c8
-s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Óıÿêü1J$6867f24b-bc41-4a50-a381-205ea8a9709a
-s
-java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ıÿÿÿÿ8¯«¡ü1J$fce04b08-c8ea-4199-bf0a-9b7c907fb24c
-
-java:S1144$">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8¯«¡ü1J$987e20a9-8ea6-40c3-a4c4-bd521ef7a3f5
-~
-java:S1144*"6Remove this unused private "containsDuplicate" method.(ïô¼ùÿÿÿÿ8¯«¡ü1J$8f100896-af49-4c0f-bf7a-a7600af7778e
+7
+java:S1220""Move this file to a named package.8ÁËÒì‡2
+U
+java:S1854"8Remove this useless assignment to local variable "test".(¥—÷°8ÅËÒì‡2
+F
+java:S1481")Remove this unused "test" local variable.(¥—÷°8ÇËÒì‡2
+L	java:S106!"+Replace this use of System.out by a logger.(£ÑŠÿÿÿÿÿ8ÉËÒì‡2
+L	java:S106'"+Replace this use of System.out by a logger.(¥ôŸşÿÿÿÿ8ÊËÒì‡2
+L	java:S106-"+Replace this use of System.out by a logger.(…ò•ùÿÿÿÿ8ÌËÒì‡2
+M
+java:S1144"+Remove this unused private "twoSum" method.(Ÿó«×ıÿÿÿÿ8ÍËÒì‡2
+[
+java:S1144$">Remove this unused private "bestTimeToBuyAndSellStock" method.(Õ˜ó“8ÏËÒì‡2
+X
+java:S1144*"6Remove this unused private "containsDuplicate" method.(ïô¼ùÿÿÿÿ8ĞËÒì‡2

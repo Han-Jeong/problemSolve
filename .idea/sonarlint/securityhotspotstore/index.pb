@@ -90,3 +90,15 @@ e
 5src/june/week4/longestIncreasingSubsquence/problem.md,9/c/9cdb8dcd7bc4efd6ebe5be434ff37c3a3c1b7c2d
 g
 7src/june/week4/containsDuplicate/ContainsDuplicate.java,b/a/bad3ca1bc50667f4618fe2d75cb1a5a6175d1100
+{
+Ksrc/june/week4/longestIncreasingSubsquence/LongestIncreasingSubsquence.java,1/0/1049da835221b2ee197496cdb7af22116958ffa7
+|
+Lsrc/june/week4/longestIncreasingSubsquence/LongestIncreasingSubesquence.java,5/5/55ad1fe553ecfbd71ac7ae462a15bd26a62da26d
+|
+Lsrc/june/week4/longestIncreasingSubsquence/LongestIncreasingSubsequence.java,2/d/2d00458d35cfe269f587ed727e32c52e593a4bf2
+}
+Msrc/june/week4/longestIncreasingSubsequence/LongestIncreasingSubsequence.java,5/c/5c6d78764def48bc2844d1920c1dd438c506aea4
+[
++src/july/week1/happyNumber/HappyNumber.java,a/b/ab70c0b06431a281ab40585ff2d6cc6b7fd20214
+U
+%src/july/week1/happyNumber/problem.md,e/7/e768bfdc49a130d1fd0ae57e5fd4bc64a79c2e1b
